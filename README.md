@@ -13,7 +13,7 @@ Installation
 To install and run the application, follow these steps:
 
 0. Update the requirements versions in requirements.txt, you can find the latest versions from PyPI.org
-[[requirements.txt]]
+[requirements.txt](https://raw.githubusercontent.com/MastersMasterM/Django-Postgres-Imp4Docker/main/requirements.txt)
 
 1. Clone the repository:
 
