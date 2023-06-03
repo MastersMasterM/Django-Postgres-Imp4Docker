@@ -18,7 +18,7 @@ To install and run the application, follow these steps:
 
 2. Change into the project directory:
 
-        cd your-repo
+        cd Django-Postgres-Imp4Docker
 
 3. Build the Docker containers:
 
