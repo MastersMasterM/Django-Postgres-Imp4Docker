@@ -39,18 +39,13 @@ The application uses environment variables to configure various settings. You ca
     POSTGRES_DB: the name of the Postgres database (default: postgres)
     DATABASE_HOST: the hostname for the database (default: db)
     DATABASE_PORT: the port number for the database (default: 5432)
+    
+ Add DOCKER_USER and PASS as the secrets of your repository to automate testing.
 
 Usage
 
 You can use these file as the base of your projects
 
-If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes and commit them.
-4. Push your changes to your branch on your forked repository.
-5. Submit a pull request.
 
 License
 
