@@ -12,7 +12,7 @@ Installation
 
 To install and run the application, follow these steps:
 
-0. Update the requirements versions from requirements.txt
+0. Update the requirements versions in requirements.txt, you can find the latest versions from PyPI.org
 
 1. Clone the repository:
 
