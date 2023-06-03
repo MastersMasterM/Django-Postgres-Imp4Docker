@@ -46,11 +46,11 @@ You can use these file as the base of your projects
 
 If you would like to contribute to this project, please follow these steps:
 
-    Fork the repository.
-    Create a new branch for your changes.
-    Make your changes and commit them.
-    Push your changes to your branch on your forked repository.
-    Submit a pull request.
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them.
+4. Push your changes to your branch on your forked repository.
+5. Submit a pull request.
 
 License
 
