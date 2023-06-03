@@ -14,7 +14,7 @@ To install and run the application, follow these steps:
 
     Clone the repository:
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/MastersMasterM/Django-Postgres-Imp4Docker.git
 ```
 
 Change into the project directory:
