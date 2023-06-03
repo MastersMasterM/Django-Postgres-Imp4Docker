@@ -15,24 +15,20 @@ To install and run the application, follow these steps:
 1. Clone the repository:
 
         git clone https://github.com/MastersMasterM/Django-Postgres-Imp4Docker.git
-```
 
-Change into the project directory:
+2. Change into the project directory:
 
-cd your-repo
-```
+        cd your-repo
 
-Build the Docker containers:
+3. Build the Docker containers:
 
-docker-compose build
-```
+        docker-compose build
+        
+4. Start the containers:
 
-Start the containers:
+        docker-compose up
 
-    docker-compose up
-    ```
-
-    Access the application in your web browser at http://localhost:8000.
+Access the application in your web browser at http://localhost:8000.
 
 Configuration
 
