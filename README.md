@@ -9,7 +9,10 @@ Before you can run this application, you must have the following software instal
 
 Installation
 
+
 To install and run the application, follow these steps:
+
+0. Update the requirements versions from requirements.txt
 
 1. Clone the repository:
 
