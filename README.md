@@ -12,7 +12,7 @@ Installation
 
 To install and run the application, follow these steps:
 
-0. Update the requirements versions in requirements.txt, you can find the latest versions from PyPI.org The Current Versions are:
+0. Update the requirements versions in requirements.txt, you can find the latest versions from PyPI.org The current projects reqs' versions are:
 ```
 Django>=3.2.4,<3.3
 djangorestframework>=3.12.4,<3.13
