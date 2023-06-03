@@ -1,7 +1,6 @@
-Dockerized Django and Postgres Application Base
+Dockerized Django and Postgres Starterkit
 
-This is a Dockerized web application that uses Django as its backend framework and Postgres as its database.
-Prerequisites
+This is a starter kit for a web application that uses Django and django-rest as its backend frameworks and Postgres as its database, Dockerized as different services, and also includes a solution for the database race problem.
 
 Before you can run this application, you must have the following software installed on your system:
 
