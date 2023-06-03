@@ -12,9 +12,12 @@ Installation
 
 To install and run the application, follow these steps:
 
-0. Update the requirements versions in requirements.txt, you can find the latest versions from PyPI.org
-[https://raw.githubusercontent.com/MastersMasterM/Django-Postgres-Imp4Docker/main/requirements.txt]
-
+0. Update the requirements versions in requirements.txt, you can find the latest versions from PyPI.org The Current Versions are:
+```
+    Django>=3.2.4,<3.3
+    djangorestframework>=3.12.4,<3.13
+    psycopg2>=2.8.6,<2.9
+```
 1. Clone the repository:
 
         git clone https://github.com/MastersMasterM/Django-Postgres-Imp4Docker.git
