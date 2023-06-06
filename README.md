@@ -1,4 +1,4 @@
-Dockerized Django and Postgres Starterkit
+# Dockerized Django and Postgres Starterkit
 
 This is a starter kit for a web application that uses Django and django-rest as its backend frameworks and Postgres as its database, Dockerized as different services, and also includes a solution for the database race problem.
 
